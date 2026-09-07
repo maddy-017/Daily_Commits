@@ -1,0 +1,4 @@
+# Calculating area of a circle
+radius = 10                                 # radius of a circle
+area_of_circle = 3.14 * radius ** 2         # two * sign means exponent or power
+print('Area of a circle:', area_of_circle)
