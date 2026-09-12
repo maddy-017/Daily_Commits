@@ -1,4 +1,13 @@
-# Calculating area of a circle
-radius = 10                                 # radius of a circle
-area_of_circle = 3.14 * radius ** 2         # two * sign means exponent or power
-print('Area of a circle:', area_of_circle)
+# s =input()
+# for i in range(0,len(s),2):
+#     print(s[i],end="")
+x = int (input())    # code here
+while (x >= 0):
+
+        # your statement below to print the number
+        # in decreasing order
+        # Note: use end=" " parameter with print to seperate numbers by space.
+        ##Output for testcases will automatically separated by a new line by the print() in driver code
+
+        x -= 1
+        print (x)
