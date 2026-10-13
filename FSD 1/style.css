@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+
+}
+div{
+    border: 10px solid
+    red;
+    margin: 20px 25px 15px 
+    18px;
+    padding: 20px 25px;
+    width: 200px;
+    height: 200px;
+}

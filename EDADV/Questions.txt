@@ -1,0 +1,15 @@
+### Exploration of data:
+1. Find number of row and number of column of data (or shape of data) and print it in nice way.
+2. Print list of all columns.
+3. Find type of each columns
+4. Print top 5 rows and botton 4 rows of data.
+5. Print 5 sample record of data.
+6. Print all player name of data.
+7. Rename the column ``Strike_Rate`` into ``StrikeRate`` and ``Average`` into ``Avg``.
+8. Rename all index (or row index) with ``P1,P2,...,P13``.
+9. Convert Attribute ``Runs`` values from string to number.
+10. Replace all ``Unknown, NA ?`` with ``np.nan``.
+11. Find all ``NaN (Null)`` value column wise and total and print it.
+12. Find and print all record those have atleast one Null Values.
+13. Delete all row those have atleast one null value.
+14. Add New columns ``Ball_Faced`` in to dataFrame ``df``.
